@@ -1,0 +1,6 @@
+DZ01:
+
+Da ste zaduženi za planiranje i razvoj informacionog sistema fakuleta, 
+kako bi ste podelili projekat u module i koje bi module prioritizovali?
+
+Opišite osnovnu funkcionalnost svakog modula, kao i njihove međusobne zavisnosti.
